@@ -1,1 +1,1 @@
-# diplom_autotests_sql
+# Ksenia_diplom_autotests_sql
